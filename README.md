@@ -16,6 +16,5 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
 https://beginnersbook.com/2017/10/java-8-features-with-examples/
 
 
-
 http://tutorials.jenkov.com/java/lambda-expressions.html
 
