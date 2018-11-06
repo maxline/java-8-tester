@@ -1,4 +1,4 @@
-package rd.ua;
+package rd.ua.tutorialspoint;
 
 public class SimpleApp {
 
