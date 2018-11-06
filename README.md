@@ -15,7 +15,7 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
 
 https://beginnersbook.com/2017/10/java-8-features-with-examples/
 
-
+https://www.codementor.io/eh3rrera/using-java-8-method-reference-du10866vx  method reference
 
 http://tutorials.jenkov.com/java/lambda-expressions.html
 
