@@ -19,3 +19,5 @@ https://www.codementor.io/eh3rrera/using-java-8-method-reference-du10866vx  meth
 
 http://tutorials.jenkov.com/java/lambda-expressions.html
 
+https://habr.com/post/216431/ Новое в Java 8
+
