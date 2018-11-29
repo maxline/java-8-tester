@@ -21,3 +21,7 @@ http://tutorials.jenkov.com/java/lambda-expressions.html
 
 https://habr.com/post/216431/ Новое в Java 8
 
+https://www.boraji.com/java-8-binaryoperator-interface-example
+
+http://www.java2s.com/Tutorials/Java/java.util.function/BinaryOperator/index.htm
+
