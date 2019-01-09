@@ -9,6 +9,7 @@ public class SimpleApp {
         MathOperation addition = (int a, int b) -> a + b;
 
         System.out.println("10 + 5 = " + tester.operate(10, 5, addition));
+        System.out.println("2 + 4 = " + addition.operation(2, 4));
     }
 
     interface MathOperation {
